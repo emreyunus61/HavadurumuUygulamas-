@@ -117,9 +117,9 @@ public class MainActivity extends AppCompatActivity {
 Log.i("description",description);*/
 
             String resultText = //"Yunus : "+main+
-                    "\nHava : "+description +
-                    "\nSıcaklık: "+temperature +"*C"+
-                    "\nRüzgâr "+visibiltyInKilometer+" KM";
+                    "\n\nHava : "+description +
+                    "\n\nSıcaklık: "+temperature +"*C"+
+                    "\n\nRüzgâr "+visibiltyInKilometer+" KM";
 
             result.setText(resultText);
 

@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Hava Durumu</string>
+
+    <string-array name="task">
+        <item>Kitap Okuma</item>
+        <item>Masa Tenisi</item>
+        <item>EF Hesap</item>
+        <item>Farklı</item>
+    </string-array>
+
+
 </resources>
